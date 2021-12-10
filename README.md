@@ -1,5 +1,5 @@
 # <Composition story>
-**To read**: [<link to story opened in Refactories Story UI, just link from browser is good enough>]
+**To read**: https://github.com/esmailalmoshki/sturdy-octo-dollop.git
 
 **Estimated reading time**: <5 min.>
 
